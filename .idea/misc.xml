@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/bg_filter_chip_state_list.xml" value="0.159" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/ic_back_arrow.xml" value="0.159" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/ic_basket.xml" value="0.159" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/ic_clock.xml" value="0.1155" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/ic_close.xml" value="0.159" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/ic_down.xml" value="0.1365" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/ic_home.xml" value="0.1865" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/ic_my.xml" value="0.1865" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/ic_refresh.xml" value="0.1365" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/ic_star.xml" value="0.1155" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/drawable/ic_thunder.xml" value="0.1365" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/layout/activity_my_location.xml" value="0.25" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/layout/fragment_my.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/layout/fragment_restaurant_list.xml" value="0.2807971014492754" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/layout/viewholder_empty.xml" value="0.10555555555555556" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/layout/viewholder_restaurant.xml" value="0.25" />
+        <entry key="..\:/Users/HanKwanJin/AndroidStudioProjects/aoppart6chapter01/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3104166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
